@@ -2,7 +2,7 @@
 
 if(isset($_POST['button_pressed']))
 {
-    $to      = 'nobody@example.com';
+    $to      = 'shridevi.devops@gmail.com';
     $subject = 'the subject';
     $message = 'hello';
     $headers = 'From: webmaster@example.com' . "\r\n" .
